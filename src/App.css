@@ -1,0 +1,43 @@
+:root{
+width: 100%;
+height: 100%;
+text-align: center;
+  
+}
+
+.App{
+  text-align: center;
+
+}
+
+.card{
+  width: fit-content;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: ;
+}
+
+
+.card img{
+  border-radius: 50%;
+}
+
+.card ul{
+  list-style: none;
+  text-align: left
+}
+
+.card ul li{
+  margin-bottom: 20px;
+}
+
+.card ul li i{
+  margin-bottom: 10px;
+}
+.boton{
+  align-items: center;
+  background-color: rgb(128, 0, 255);
+  border-style: groove;
+  
+}
